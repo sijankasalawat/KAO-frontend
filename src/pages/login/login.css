@@ -1,0 +1,67 @@
+.login-page{
+    height:100vh;
+    width:100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.loginImage-back{
+    height:100vh;
+    width:100%;
+}
+.loginImage-back{
+    background-color: #1B1B1B;
+}
+.backLoginImg{
+    width:70%;
+    height:100%;
+}
+.backLoginImg img{
+    width:100%;
+    height:100%;
+}
+
+.main-container{
+    height:80%;
+    width:70%;
+    
+
+}
+.left-container{
+    width:45%;
+    border: 5px solid #141414;
+    border-radius: 10px 0 0 10px;
+}
+.left-container img{
+    height:100%;
+    width:100%;
+
+}
+.right-container{
+    width:55%;
+    background-color: #141414;
+    border-radius: 0 10px 10px 0;
+}
+.right-container form{
+    width:70%;
+    
+}
+.btn{
+    background-color:#dbad6a ;
+    color:white;
+}
+.btn:hover{
+    background-color:#ab7d3a ;
+}
+.kao-logos{
+   
+    width:100px;
+
+}
+.kao-logos img{
+    height:100%;
+    width:100%;
+}
